@@ -1,0 +1,104 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>tour&Travel vapilion</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="wrapper">
+  <h1><a href="#"><img src="images/logo.gif" width="554" height="47" alt="Tour & Travel Vapilion" /></a></h1>
+  <div id="booking">
+    <h2>Bookings &amp; Reservations</h2>
+    <form action="#" method="get">
+      <div class="jtype">
+        <label for="flight">Flight</label>
+        <input name="flight" id="flight" type="checkbox" value="flight" />
+        &nbsp; &nbsp;
+        <label for="hotel">Hotel</label>
+        <input name="hotel" id="hotel" type="checkbox" value="hotel" />
+        &nbsp; &nbsp;
+        <label for="cruise">Cruise</label>
+        <input name="cruise" id="cruise" type="checkbox" value="cruise" />
+      </div>
+      <!-- end .jtype --> 
+      <br><br>
+      <table summary="" cellspacing="0" cellpadding="0" border="0">
+        <tr>
+          <th>Check in</th>
+          <td><input name="in" type="text" value="" class="text" />
+            <input type="submit" value="submit" class="submit" /></td>
+        </tr>
+        <tr>
+          <th>Check out</th>
+          <td><input name="out" type="text" value="" class="text" />
+            <input type="submit" value="submit" class="submit" /></td>
+        </tr>
+      </table>
+      <p class="advanced"><a href="#"><img src="images/advanced.gif" width="11" height="11" alt="" /> Advanced Search</a></p>
+    </form>
+  </div>
+  <!-- end booking -->
+  <div id="nav">
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">Tours</a></li>
+      <li><a href="#">Bookings & reservation</a></li>
+      <li><a href="#">Contacts</a></li>
+    </ul>
+  </div>
+  <!-- end nav -->
+  <h2  id="packagesheader"><img src="images/title_our_packages.gif" width="352" height="23" alt="our packages" /></h2>
+  <div id="packages">
+    <h3 class="golden">Home</h3>
+    <p>kami sudah memiliki pengalaman dalam bidang tour & travel dalam hal melayani konsumen </p>
+    <p>kami juga memiliki berbagai macam fasilitas dan pelayanan menarik</p>
+    <p class="readmore"><a href="#"><img src="images/readmore.gif" width="68" height="15" alt="readmore" /></a></p>
+        <!-- end special -->
+    <h3 class="silveren">Tours</h3>
+   <ol>
+    <h3>Danau singkarak</h3>
+     <p class="readmore"><a href="#"><img src="http://sbsgrouptour.com/danau-singkarak/" width="68" height="15" alt="danau singkarak" /></a></p>
+     <P><p>Danau Singkarak merupakan sebuah objek wisata alam yang menyajikan pemandangan kawah dari gunung vulkanik dengan luas sekitar 1000 hektar sehingga menempatkannya di urutan ke dua danau terbesar setelah danau toba yang terdapat di wilayah Sumatera. Berbagai macam aktivitas yang dapat…</p>
+     <br><br>
+    <div id="special"> <a href="#"><img src="images/ad_special_offer.gif" width="293" height="79" alt="special offer" /></a> </div>
+    <ol>
+      <li>memberikan pelayanan terbaik dengan harga terjangkau.</p>
+      <li>kami menyediakan penawran dari 250k/malam</p>
+      <li>pada hari tertentu kami memberikan potongan harga sebesar 30% </p>
+    </ol>
+    <br/>
+    <br/>
+  </div>
+  <div id="main"> <img src="images/people.jpg" width="447" height="298" alt="two people having a walk" class="block" />
+    <h2><img src="images/title_hottest_locations.gif" width="447" height="24" alt="hottest locations" /></h2>
+    <div class="inner">
+      <h3 class="blue">Lembah Harau"</h3>
+      <img src="http://sbsgrouptour.com/lembah-harau/" width="109" height="71" alt="gambar lembah" class="left" />
+      <p> merupakan daerah dataran tinggi wilayah Sumatera Barat memang tak akan pernah bosan sebab mata akan selalu dimanjakan dengan panorama alam yang tersaji di sepanjang perjalanan. Rasanya mungkin saja bila sepanjang perjalanan dari Padang hingga sampai ke Payakumbuh dan terusannya yang… ;) .</p>
+      <br />
+      <br />
+      <h3 class="green">Danau Maninjau</h3>
+      <img src="http://sbsgrouptour.com/danau-maninjau" width="109" height="71" alt="danau maninjau" class="left" />
+      <p>Danau Maninjau yang indah di Sumatra Barat adalah salah satu yang terhening di Indonesia. Dengan seluas 100 m², danau ini merupakan kejaiban alam yang luar biasa dan tempat yang tepat untuk menenangkan diri dan menikmati suasana hidup yang tenang. Datanglah…</p>
+      <h3 class="blue">Wisata Batu Malin Kundang</h3>
+      <img src="http://sbsgrouptour.com/wisata-batu-malin-kundang/" widht="100"height="70" alt="batu malin kundang" class="left"/>
+      <p>Ada perasaan takjub melihat batu yang menyerupai sosok orang tersebut. Bertahun-tahun sekadar mendengar legenda tentang Malin Kundang berubah menjadi batu, akhirnya bisa melihat batu yang ada di kisah itu. Batu tersebut seperti orang yang sedang tertelungkup dan memberi kesan menyedihkan.…</p>
+      </ol>
+      <br/>
+      <br/>
+       <h3>contac person</h3>
+       <p>jalan jl.melayu no 8a/d -west sumatera Tlp :082285338779  </p>
+         
+      
+      <div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+  </div>
+  <!-- end main -->
+  <div id="footer"> &copy; Copyright Information here | designed by <a href="http://www.vapilion.com">tour &travel vapilion </a></div>
+  <!-- end footer -->
+</div>
+<!-- end wrapper -->
+</body>
+</html>
